@@ -174,6 +174,19 @@ The project may include relevant KPIs such as:
 
 ---
 
+## DAX Measures
+
+The project uses DAX measures in Power BI to calculate key supply chain performance indicators.
+
+- Total Orders
+- Total Revenue
+- Average Delivery Time
+- On-Time Delivery Percentage
+- Total Transportation Cost
+- Average Inventory
+
+These measures support inventory, delivery, and transportation performance analysis.
+
 ## Project Milestones
 
 | Milestone | Description | Status |
@@ -195,11 +208,17 @@ The project may include relevant KPIs such as:
 - **Dataset** – Supply chain and logistics data.
   
 **Expected Benefits:**
+
 -Improved visibility into supply chain operations.
+
 -Easier monitoring of operational KPIs.
+
 -Better identification of delivery and inventory issues.
+
 -Clearer comparison of supplier and transportation performance.
+
 -Data-driven support for operational planning.
+
 
 ## Repository Structure
 
@@ -209,12 +228,22 @@ Supply-Chain-Visibility-Analytics/
 ├── README.md
 ├── Supply-Chain-Dashboard.pbix
 ├── dashboard-previews/
-│   ├── supply-chain-overview.png
-│   ├── inventory-analysis.png
-│   ├── delivery-performance.png
-│   ├── transportation-analysis.png
-│   └── warehouse-efficiency.png
-│
-└── Documentation/
-    └── Project-Report.pdf
+   ├── supply-chain-overview.png
+   ├── inventory-analysis.png
+   ├── delivery-performance.png
+   ├── transportation-analysis.png
+   └── warehouse-efficiency.png
+```
+## Project Author: 
+
+**Bellala Akhila**
+
+**Project:** Supply Chain Visibility System with Optimization Analytics
+
+**Technology:** Power BI
+
+
+
+
+ 
 
