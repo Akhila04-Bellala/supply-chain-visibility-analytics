@@ -1,0 +1,19 @@
+# Dataset Information
+
+**Dataset:** logistics and supply chain logistics dataset
+
+**Format:** CSV
+
+**Tool:** Power BI Desktop
+
+## Data Preparation
+
+- Check column names and data types.
+- Handle missing values.
+- Check duplicate records.
+- Standardize inconsistent categories.
+- Prepare data for analysis.
+
+## Purpose
+
+The dataset supports inventory, delivery, supplier, transportation, and warehouse analytics.
