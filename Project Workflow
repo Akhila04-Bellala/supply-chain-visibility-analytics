@@ -1,0 +1,11 @@
+# Project Workflow
+
+The Supply Chain Visibility System with Optimization Analytics follows these steps:
+
+1. **Data Collection:** Obtain the supply chain and logistics dataset.
+2. **Data Cleaning:** Clean and transform the data using Power Query.
+3. **Data Modelling:** Organize the data for analysis.
+4. **KPI Development:** Calculate relevant performance indicators using DAX.
+5. **Dashboard Development:** Create interactive dashboards using Power BI.
+6. **Performance Analysis:** Analyze inventory, delivery, supplier, transportation, and warehouse performance.
+7. **Insights:** Present findings to support data-driven decisions.
